@@ -29,6 +29,8 @@ array in ilk elemanını kök olarak kabul ederiz ve sonrasında gelen elemanlar
        \ 
         3 
         
+        
+        
  -        7
          / \
         5   8
@@ -37,6 +39,9 @@ array in ilk elemanını kök olarak kabul ederiz ve sonrasında gelen elemanlar
        \ 
         3 
         
+        
+        
+        
  -        7
          / \
         5   8
@@ -44,6 +49,8 @@ array in ilk elemanını kök olarak kabul ederiz ve sonrasında gelen elemanlar
       1   6 
      / \ 
     0   3 
+    
+    
  -        7
          / \
         5   8
@@ -51,6 +58,8 @@ array in ilk elemanını kök olarak kabul ederiz ve sonrasında gelen elemanlar
       1   6   9
      / \ 
     0   3 
+    
+    
     
  -        7
          / \
@@ -61,6 +70,8 @@ array in ilk elemanını kök olarak kabul ederiz ve sonrasında gelen elemanlar
     0   3 
          \
            4
+           
+           
            
  -        7   ağacın son hali
          / \
